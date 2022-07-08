@@ -1,0 +1,14 @@
+100 PRINT TAB(15)"*
+110 PRINT TAB(14)"***
+120 PRINT TAB(13)"*****
+130 PRINT TAB(12)"*******
+140 PRINT TAB(14)"***
+150 PRINT TAB(12)"*******
+160 PRINT TAB(10)"***********
+170 PRINT TAB(8)"***************
+180 PRINT TAB(13)"*****
+190 PRINT TAB(10)"***********
+200 PRINT TAB(7)"*****************
+210 PRINT TAB(4)"***********************
+220 PRINT TAB(14)"***
+230 PRINT TAB(14)"***
