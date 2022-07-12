@@ -1,0 +1,8 @@
+0 'ratrun.bas
+10 D(1)=1:D(2)=32:D(3)=-1:D(4)=-32
+20 CLS0:L=272:D=1
+30 PRINT@L,"*";
+40 D=RND(4)
+70 NL=L+D(D)
+80 IF NL>=0 THEN IF NL<511 THEN PRINT@L," ";:L=NL
+90 GOTO 30
